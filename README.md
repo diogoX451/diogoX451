@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+🕵🏽‍♂️ Diogo Almeida
+
+🌆 Goiânia - GO
+
+💻 Junior in programming
+
+🧠 JavaScript, MySQL, HTML, CSS, PHP, C, C# and Arduino
+
+🧩 Be a genius
 <!--
 **diogoX451/diogoX451** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
