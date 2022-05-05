@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu perfil, já se aprensentando meu nome é Diogo Almeida. Ficarei feliz em poder ter ajudar em algo :)
+### Olá, seja bem-vindo ao meu perfil, já se aprensentando meu nome é Diogo Almeida. Ficarei feliz em poder no que for preciso :)
 <div align="center">
   <a href="https://github.com/diogoX451">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diogoX451&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
