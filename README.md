@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo ao meu perfil, já se aprensentando meu nome é Diogo Almeida. Ficarei feliz em poder no que for preciso 🤖🤖
+### Hello how are you? My name is Diogo Almeida, I hope some of my repositories help you with your project🤖🤖
 
 <div align="center">
   <a href="https://github.com/diogoX451">
