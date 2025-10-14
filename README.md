@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="mailto:diogosgn@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-diogosgn%40gmail.com-555?style=flat&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/diogo-almeida-3973541b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diogo%20Almeida-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/diogo-dos-reis-almeida-3973541b1/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Diogo%20Almeida-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://instagram.com/diogoreisalmeida07"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-@diogoreisalmeida07-E4405F?style=flat&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/cPaueWy8TP"><img alt="Discord" src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat&logo=discord&logoColor=white"></a>
   <img alt="Location" src="https://img.shields.io/badge/BR-Goi%C3%A1s-00875A?style=flat&logo=google-maps&logoColor=white">
