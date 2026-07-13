@@ -56,6 +56,8 @@ hot-swappable — and occasionally shipping IoT hardware to prove they work in t
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white">
 <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white">
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=white">
 
 **Frameworks & Frontend**  
 <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white">
@@ -70,3 +72,17 @@ hot-swappable — and occasionally shipping IoT hardware to prove they work in t
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white">
 <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
+
+---
+
+### 📈 3D Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+</picture>
+
+</div>
