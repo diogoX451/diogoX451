@@ -80,9 +80,9 @@ hot-swappable — e, de vez em quando, colocar hardware IoT no mundo real para p
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="Grafo de contribuições 3D" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
+  <img alt="Grafo de contribuições 3D" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </picture>
 
 </div>
