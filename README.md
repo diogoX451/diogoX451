@@ -18,6 +18,10 @@
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=diogoX451&style=flat&label=visits&color=00ADD8">
 </p>
 
+<p align="center">
+  <b>🇺🇸 English</b> &nbsp;·&nbsp; <a href="README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
 ---
 
 ### 👋 About me
