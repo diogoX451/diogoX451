@@ -66,31 +66,3 @@ hot-swappable — and occasionally shipping IoT hardware to prove they work in t
 <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white">
 <img alt="k6" src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white">
 <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000?logo=espressif&logoColor=white">
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=diogoX451&show_icons=true&theme=radical&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=diogoX451&show_icons=true&theme=default&include_all_commits=true&count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="165" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=diogoX451&show_icons=true&include_all_commits=true&count_private=true" />
-</picture>
-&nbsp;
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoX451&layout=compact&langs_count=8&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoX451&layout=compact&langs_count=8&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoX451&layout=compact&langs_count=8" />
-</picture>
-
-</div>
