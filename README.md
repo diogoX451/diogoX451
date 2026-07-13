@@ -93,8 +93,4 @@ hot-swappable — and occasionally shipping IoT hardware to prove they work in t
   <img height="165" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogoX451&layout=compact&langs_count=8" />
 </picture>
 
-<br/>
-
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=diogoX451&theme=radical&no-frame=true&column=7&margin-w=8" />
-
 </div>
