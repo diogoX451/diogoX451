@@ -27,7 +27,7 @@ services in **Go** and **PHP/Laravel**, with a growing focus on **LLM-powered ag
 and **RAG** pipelines. I like designing systems that are event-driven, observable, and
 hot-swappable — and occasionally shipping IoT hardware to prove they work in the real world.
 
-- 🧠 Building **[Archon](https://github.com/diogoX451/archon)** — a self-evolving Interaction Net engine where LLMs architect computation graphs and agents execute through parallel rewriting.
+- 🧠 Building **Archon** — a self-evolving Interaction Net engine where LLMs architect computation graphs and agents execute through parallel rewriting. Its Go building blocks are open source in **[archon-oss](https://github.com/diogoX451/archon-oss)**.
 - 🌱 Deep-diving **vector search (Milvus)**, **graph databases (Neo4j)** and **event sourcing (NATS JetStream)**.
 - 💬 Ask me about Go concurrency, RAG over SQL, or wiring an ESP32 to a real backend.
 - 📫 Reach me at **diogosgn@gmail.com**.
@@ -38,12 +38,10 @@ hot-swappable — and occasionally shipping IoT hardware to prove they work in t
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| **[archon](https://github.com/diogoX451/archon)** | Self-evolving Interaction Net engine — LLMs design the graph, agents execute via parallel rewriting. Multi-tenant, event-sourced, hot-swappable. | `Go` `LLM` `NATS` |
-| **[archon-oss](https://github.com/diogoX451/archon-oss)** | Open-source toolkit behind Archon: LLM gateway, need-protocol, event envelopes, token bucket, NATS bus. | `Go` `OSS` |
+| **[archon-oss](https://github.com/diogoX451/archon-oss)** | Open-source Go toolkit behind Archon: LLM gateway, need-protocol, event envelopes, token bucket, NATS bus. | `Go` `OSS` |
 | **[rag-sql](https://github.com/diogoX451/rag-sql)** | RAG pipeline that understands a database schema to ground LLM responses. | `Go` `RAG` |
 | **[GopherORM](https://github.com/diogoX451/GopherORM)** | Lightweight ORM for Go. | `Go` |
 | **[DataNumbers-IoT](https://github.com/diogoX451/DataNumbers-IoT)** | IoT project built for a national tech fair. | `TypeScript` `IoT` |
-| **[Digital-Watch](https://github.com/diogoX451/Digital-Watch)** | Digital clock with a Node.js backend. | `Node.js` `CSS` |
 
 ---
 
